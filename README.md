@@ -33,5 +33,6 @@ sh script.sh
 ```
 
 ## 5. Try login using winbox
-login: Admin
-Password: empty
+login: admin
+
+password: empty
