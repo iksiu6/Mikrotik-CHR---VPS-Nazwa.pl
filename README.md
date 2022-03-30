@@ -26,8 +26,10 @@ nano script.sh
 and change it
 
 
-## Use this command to install:
+## 4. Use this command to install:
 
 ```
-bash script.sh
+sh script.sh
 ```
+
+## 5. Try login using winbox
