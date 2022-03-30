@@ -4,7 +4,7 @@ Works with Ubuntu 16.04 on VPS on Nazwa.pl
 
 ## 1. Download script to Your machine using this command:
 ```
-wget https://github.com/iksiu6/Mikrotik-CHR---VPS-Nazwa.pl/blob/main/script.sh
+wget https://raw.githubusercontent.com/iksiu6/Mikrotik-CHR---VPS-Nazwa.pl/main/script.sh
 ```
 
 ## 2. Check Your network adapter using 
