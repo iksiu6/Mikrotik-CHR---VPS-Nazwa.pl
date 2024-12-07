@@ -1,5 +1,5 @@
 #!/bin/bash
-wget https://download.mikrotik.com/routeros/7.16.2/chr-7.16.2.img.zip -O chr.img.zip  && \
+wget https://download.mikrotik.com/routeros/6.49.2/chr-6.49.2.img.zip -O chr.img.zip  && \
 gunzip -c chr.img.zip > chr.img  && \
 mount -o loop,offset=512 chr.img /mnt && \
 #Check network adapter name in next line
